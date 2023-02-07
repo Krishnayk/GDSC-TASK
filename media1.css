@@ -1,0 +1,36 @@
+@media only screen and (max-width: 375px){
+
+body{
+    width: 340px;
+    height: 300px;
+    margin-left: -50px;
+    margin-right: -200px;
+    background-color: transparent;
+}
+.header-content h1{
+    font-size: 20px;
+}
+.header-content h3{
+    font-size: 15px;
+}
+.header-content p{
+    font-size: 10px;
+}
+section{
+    font-size: 10px;
+    width: -1000px;
+}
+button{
+    max-height: 30px;
+    font-size: 10px;
+    max-width: 30px;
+}
+section .about{
+    width: -150px;
+    height: -300px;
+    font-size: 10px;
+}
+}
+    
+
+
